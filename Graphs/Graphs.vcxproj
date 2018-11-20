@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Adia.h" />
+    <ClInclude Include="IsItAGraph.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
